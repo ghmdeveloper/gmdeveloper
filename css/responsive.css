@@ -1,0 +1,35 @@
+@media (min-width: 767px) {
+	.header-container h1 {
+		font-size: 23px;
+	}
+		.promotion-list li {
+		font-size: 25px;
+	}
+
+	.promotion h2 {
+		font-size: 35px;
+	}
+
+	.featured-work h2 {
+		font-size: 40px;
+	}
+}
+@media (min-width: 992px){
+	.header-container h1 {
+		float: right;
+		font-size: 23px;
+	}
+
+	.header-wrapper img {
+		float: left;
+	}
+
+	.promotion-list li {
+		text-align: left;
+		font-size: 25px;
+	}
+
+	.featured-work h2 {
+		text-align: left;
+	}
+}
